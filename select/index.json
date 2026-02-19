@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "VIVA！",
+  "base_artist": "天王寺璃奈 (CV.田中ちえ美)、三船栞子 (CV.小泉萌香)",
+  "createdAt": "2026-02-19T12:15:52.042499Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "¿Viva La Gloria? (Little Girl)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_¿Viva_La_Gloria__(Little_Girl)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Viva La Gloria (Little Girl)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_Viva_La_Gloria_(Little_Girl)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "¡Viva La Gloria!",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/03_¡Viva_La_Gloria!_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Viva La Gloria!",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/04_Viva_La_Gloria!_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/05_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "has_synced": true,
+      "path": "select/06_Viva_La_Vida_Coldplay.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Viva Las Vegas",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/07_Viva_Las_Vegas_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Joy De Viva",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/08_Joy_De_Viva_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Viva Fisher",
+      "artist": "Blind Mr. Jones",
+      "has_synced": false,
+      "path": "select/09_Viva_Fisher_Blind_Mr._Jones.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Viva Necro",
+      "artist": "Necro",
+      "has_synced": true,
+      "path": "select/10_Viva_Necro_Necro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Viva Zapata",
+      "artist": "Mano Negra",
+      "has_synced": true,
+      "path": "select/11_Viva_Zapata_Mano_Negra.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Viva La Vida",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Puddles Pity Party",
+      "has_synced": true,
+      "path": "select/12_Viva_La_Vida_Scott_Bradlee's_Postmodern_Jukebox_feat._Puddles_Pity_Party.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Viva Las Vegas",
+      "artist": "Dead Kennedys",
+      "has_synced": true,
+      "path": "select/13_Viva_Las_Vegas_Dead_Kennedys.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cloud of Unknowing (Feat. Bobby Womack and sinfonia ViVA)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/14_Cloud_of_Unknowing_(Feat._Bobby_Womack_and_sinfonia_ViVA)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cloud of Unknowing (feat. Bobby Womack & Sinfonia Viva)",
+      "artist": "Gorillaz",
+      "has_synced": true,
+      "path": "select/15_Cloud_of_Unknowing_(feat._Bobby_Womack_&_Sinfonia_Viva)_Gorillaz.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Viva Ultra",
+      "artist": "Palace Music",
+      "has_synced": true,
+      "path": "select/16_Viva_Ultra_Palace_Music.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Viva la Vida/Domino Dancing - Christmas EP Mix; 2018 Remastered Version",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/17_Viva_la_Vida_Domino_Dancing_-_Christmas_EP_Mix;_2018_Remastered_Version_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VIVA!",
+      "artist": "天王寺璃奈 (CV.田中ちえ美)、三船栞子 (CV.小泉萌香)",
+      "has_synced": false,
+      "path": "select/pl_01_VIVA!_天王寺璃奈_(CV.田中ちえ美)、三船栞子_(CV.小泉萌香).txt"
+    }
+  ]
+}
